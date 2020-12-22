@@ -7,7 +7,7 @@ using namespace std;
 // Problem 2 : Find the sum of even valued terms of a Fibonacci sequence below 4 millions
 
 
-/*
+
 int main() {
 
 	// Step 1 : Generate a Fibonacci sequence
@@ -41,7 +41,7 @@ int main() {
 
 	return 0;
 }
-*/
+
 
 
 
