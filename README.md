@@ -7,6 +7,7 @@ Problem 3: Largest prime factor\
 Problem 4: The largest palindrome made from the product of two 3-digit numbers\
 Problem 5: The smallest positive number that is evenly divisible by all of the numbers from 1 to 20\
 Problem 6: The difference between the sum of the squares of the first one hundred natural numbers and the square of the sum\
-Problem 7: The 10 001st prime number
+Problem 7: The 10 001st prime number\
+Problem 8: The largest product in a series
 
 The problems'descriptions can be found online here : https://projecteuler.net/archives
