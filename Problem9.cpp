@@ -37,11 +37,13 @@ int main() {
 						//Step 2:  if the sum found above is equal to 1000, we stop and exits the two loops
 						if (sum == 1000) { 
 
+							int product = a * b * c; // calculate the product abc
 							
 							cout <<"The term a is " << a << endl;
 							cout << "The term b is " << b << endl;
 							cout <<"The term c is " << c << endl;
 							cout << (pow(a, 2) + pow(b, 2)) << " = " << pow(c, 2) << endl;
+							cout << "The product abc is : " << product << endl;
 
 							found = true; // boolean flag is set to true
 							break; // exits the inner loop
