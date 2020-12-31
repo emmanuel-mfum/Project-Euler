@@ -9,6 +9,7 @@ Problem 5: The smallest positive number that is evenly divisible by all of the n
 Problem 6: The difference between the sum of the squares of the first one hundred natural numbers and the square of the sum\
 Problem 7: The 10 001st prime number\
 Problem 8: The largest product in a series\
-Problem 9: Special Pythagorean triplet
+Problem 9: Special Pythagorean triplet\
+Problem 10: Summation of primes
 
 The problems'descriptions can be found online here : https://projecteuler.net/archives
