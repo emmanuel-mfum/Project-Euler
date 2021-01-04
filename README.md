@@ -11,6 +11,7 @@ Problem 7: The 10 001st prime number\
 Problem 8: The largest product in a series\
 Problem 9: Special Pythagorean triplet\
 Problem 10: Summation of primes\
-Problem 11: Largest product in a grid
+Problem 11: Largest product in a grid\
+Problem 12: Highly divisible triangular number
 
 The problems'descriptions can be found online here : https://projecteuler.net/archives
